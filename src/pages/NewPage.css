@@ -6,7 +6,7 @@
   transition: ease-in-out 1s;
   transform-origin: bottom;
   margin-left: 4rem;
-  margin-top: 5rem;
+  margin-top: 0rem;
   z-index: 1100;
 }
 
@@ -32,9 +32,9 @@
 
 .download-sec {
   position: absolute;
-  margin-top: 1rem;
-  margin-left: 2rem;
-  margin-right: 4rem;
+  margin-top: 4rem;
+  margin-left: 1rem;
+  margin-bottom: 6rem;
   padding: 2rem;
   width: 500px;
   height: 400px;
@@ -97,7 +97,6 @@
   width: 60%;
   color: aliceblue;
   margin-left: 24rem;
-  position: absolute;
   text-align: left;
   align-items: center;
 }
@@ -157,10 +156,11 @@ h2 {
 }
 
 .rating-and-others {
-  position: absolute;
   width: 50%;
   margin-top: 2rem;
+  margin-bottom: 5rem;
 }
+
 .rating-and-others span {
   font-weight: 600;
   font-size: 18px;
@@ -184,8 +184,8 @@ h2 {
   border-radius: 10px;
   padding: 20px;
   background-color: rgba(39, 36, 36, 0.774);
-  margin-top: 0rem;
-  margin-left: 36rem;
+  margin-top: 8rem;
+  margin-left: 38rem;
 }
 
 .feedback a {
@@ -221,6 +221,7 @@ h2 {
   display: flex;
   padding: 20px;
   margin-bottom: 4rem;
+  margin-top: 15rem;
 }
 
 .more-movies h2 {

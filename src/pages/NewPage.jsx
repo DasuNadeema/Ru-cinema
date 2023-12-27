@@ -79,42 +79,41 @@ function NewPage() {
             </span>
           </div>
         </div>
-      </div>
-      <div className="download-sec">
-        <h3>To Download</h3>
-        <span>SD 480P -- 600Mb</span>
-        <a href="">Link 1</a>
-        <a href="">Link 2</a>
-        <a href="">Link 3</a>
-        <span>HD 720P -- 800Mb</span>
-        <a href="">Link 1</a>
-        <a href="">Link 2</a>
-        <a href="">Link 3</a>
-        <span>FHD 1080P -- 1.2GB</span>
-        <a href="">Link 1</a>
-        <a href="">Link 2</a>
-        <a href="">Link 3</a>
-      </div>
-      <div className="feedback">
-        <legend>
-          <h2>Leave A Comment</h2>
-          <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio
-            aperiam, ipsa tempore voluptate dolorem sint voluptas earum
-            voluptatum facere et ratione molestias ad eius quia? Facere fugiat
-            nihil corporis quidem.
-          </p>
-
-          <input type="text" placeholder="First Name" />
-          <input type="email" placeholder="Last Name" />
-          <input type="Telephone" placeholder="Contact Number" />
-          <input type="email" placeholder="Email Address" />
-        </legend>
-        <div className="im">
-          <input type="email" placeholder="Type Your Message" />
+        <div className="download-sec">
+          <h3>To Download</h3>
+          <span>SD 480P -- 600Mb</span>
+          <a href="">Link 1</a>
+          <a href="">Link 2</a>
+          <a href="">Link 3</a>
+          <span>HD 720P -- 800Mb</span>
+          <a href="">Link 1</a>
+          <a href="">Link 2</a>
+          <a href="">Link 3</a>
+          <span>FHD 1080P -- 1.2GB</span>
+          <a href="">Link 1</a>
+          <a href="">Link 2</a>
+          <a href="">Link 3</a>
         </div>
-        <br />
-        <a href="#"> Post Comment</a>
+        <div className="feedback">
+          <legend>
+            <h2>Leave A Comment</h2>
+            <p>
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+              Distinctio aperiam, ipsa tempore voluptate dolorem sint voluptas
+              earum voluptatum facere et ratione molestias ad eius quia? Facere
+              fugiat nihil corporis quidem.
+            </p>
+            <input type="text" placeholder="First Name" />
+            <input type="email" placeholder="Last Name" />
+            <input type="Telephone" placeholder="Contact Number" />
+            <input type="email" placeholder="Email Address" />
+          </legend>
+          <div className="im">
+            <input type="email" placeholder="Type Your Message" />
+          </div>
+          <br />
+          <a href="#"> Post Comment</a>
+        </div>
       </div>
       <br />
       <div className="more-movies">
