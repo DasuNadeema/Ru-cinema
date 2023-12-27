@@ -26,12 +26,10 @@ function NewPage() {
       </div>
       <div className="n-content">
         <br />
-
         <div className="n-img">
           <img src={img2} alt="" className="m-img2" />
           <img src={wick} alt="" />
         </div>
-
         <div className="detail-box">
           <h2>John Wick : 2014</h2>
           <div className="categories-2">
